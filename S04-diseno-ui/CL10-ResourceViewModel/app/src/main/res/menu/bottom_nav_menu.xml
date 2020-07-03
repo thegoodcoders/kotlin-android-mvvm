@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movies"
+        android:icon="@drawable/ic_videocam_black_24dp"
+        android:title="@string/title_movies" />
+
+    <item
+        android:id="@+id/navigation_people"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        android:title="@string/title_people" />
+
+</menu>
